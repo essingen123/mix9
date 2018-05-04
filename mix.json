@@ -114,17 +114,6 @@
    "duration": 3.2432498931884766
   },
   {
-   "name": "maxkilian6.mp3",
-   "path": "sounds/maxkilian6.mp3",
-   "pan": -1,
-   "gain": 0.28428285123966934,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 3.2432498931884766
-  },
-  {
    "name": "maxkilian7.mp3",
    "path": "sounds/maxkilian7.mp3",
    "pan": -1,
@@ -180,39 +169,6 @@
    "duration": 3.2432498931884766
   },
   {
-   "name": "yogajoggercomaloop.mp3",
-   "path": "sounds/yogajoggercomaloop.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 4.324333190917969
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi G-Return mixvol0.2x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi G-Return mixvol0.2x.mp3",
-   "pan": -1,
-   "gain": 0.2,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi PERC.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi PERC.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
    "name": "yogajoggercomcqbcdefghi chords reson mixvol0.6x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi chords reson mixvol0.6x.mp3",
    "pan": -1,
@@ -255,39 +211,6 @@
    "soloed": false,
    "afl": true,
    "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi ~909 Clap 1-1 mixvol0.2x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 1-1 mixvol0.2x.mp3",
-   "pan": -1,
-   "gain": 0.2,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi ~909 Clap 1.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 1.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomd.mp3",
-   "path": "sounds/yogajoggercomd.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 172.9729766845703
   }
  ]
 }
