@@ -26,17 +26,6 @@
    "duration": 236.74693298339844
   },
   {
-   "name": "blockchainspeechb.mp3",
-   "path": "sounds/blockchainspeechb.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6032.9794921875
-  },
-  {
    "name": "caroline3_only_voice.mp3",
    "path": "sounds/caroline3_only_voice.mp3",
    "pan": -1,
@@ -46,28 +35,6 @@
    "soloed": true,
    "afl": true,
    "duration": 907.6389770507812
-  },
-  {
-   "name": "i have the resonsibillity for everything.mp3",
-   "path": "sounds/i have the resonsibillity for everything.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 2.3609375953674316
-  },
-  {
-   "name": "jogging_optimal_111_147_B.mp3",
-   "path": "sounds/jogging_optimal_111_147_B.mp3",
-   "pan": -1,
-   "gain": 1.0178058367768594,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 172.9729766845703
   },
   {
    "name": "la.mp3",
@@ -92,17 +59,6 @@
    "duration": 6.486354351043701
   },
   {
-   "name": "ld.mp3",
-   "path": "sounds/ld.mp3",
-   "pan": -1,
-   "gain": 0.8083644628099171,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 25.945959091186523
-  },
-  {
    "name": "lf.mp3",
    "path": "sounds/lf.mp3",
    "pan": -1,
@@ -112,17 +68,6 @@
    "soloed": false,
    "afl": true,
    "duration": 10.810812950134277
-  },
-  {
-   "name": "maxkilian10.mp3",
-   "path": "sounds/maxkilian10.mp3",
-   "pan": -1,
-   "gain": 0.771203305785124,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 3.2432498931884766
   },
   {
    "name": "maxkilian11.mp3",
@@ -169,17 +114,6 @@
    "duration": 3.2432498931884766
   },
   {
-   "name": "maxkilian5.mp3",
-   "path": "sounds/maxkilian5.mp3",
-   "pan": -1,
-   "gain": 0.10845046487603308,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 3.2432498931884766
-  },
-  {
    "name": "maxkilian6.mp3",
    "path": "sounds/maxkilian6.mp3",
    "pan": -1,
@@ -209,17 +143,6 @@
    "muted": false,
    "_muted": false,
    "soloed": true,
-   "afl": true,
-   "duration": 3.2432498931884766
-  },
-  {
-   "name": "maxkilian9.mp3",
-   "path": "sounds/maxkilian9.mp3",
-   "pan": -1,
-   "gain": 0.08877691115702481,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
   },
@@ -257,98 +180,10 @@
    "duration": 3.2432498931884766
   },
   {
-   "name": "piano_only.mp3",
-   "path": "sounds/piano_only.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 34.5946044921875
-  },
-  {
-   "name": "yogajoggercomaloop.mp3",
-   "path": "sounds/yogajoggercomaloop.mp3",
-   "pan": -1,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 4.324333190917969
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi 21-Audio mixvol0.7x.mp3",
-   "pan": -1,
-   "gain": 0.7,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi 23-Audio mixvol0.6xmixpan0.4x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi 23-Audio mixvol0.6xmixpan0.4x.mp3",
-   "pan": 0.4,
-   "gain": 0.6,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": false,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi 909 HH etc 2 mixvol0.4x.mp3",
-   "pan": -1,
-   "gain": 0.4,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi E-Wedge Vocal Ballad _ Compressor _ EQ Eight mixvol0.2x.mp3",
-   "pan": -1,
-   "gain": 0.2,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
    "name": "yogajoggercomcqbcdefghi G-Return mixvol0.2x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi G-Return mixvol0.2x.mp3",
    "pan": -1,
    "gain": 0.2,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi MASTER BASS mixvol0.3xmixpan-0.4x.mp3",
-   "pan": -0.4,
-   "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi PERC.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi PERC.mp3",
-   "pan": -1,
-   "gain": 0.3,
    "muted": false,
    "_muted": true,
    "soloed": false,
@@ -415,17 +250,6 @@
    "path": "sounds/yogajoggercomcqbcdefghi ~909 Clap 1.mp3",
    "pan": -1,
    "gain": 0.3,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi °-2 mixvol0.5x.mp3",
-   "pan": -1,
-   "gain": 0.5,
    "muted": false,
    "_muted": true,
    "soloed": false,
