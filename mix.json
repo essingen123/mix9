@@ -1,27 +1,53 @@
 {
  "name": "Mix demo",
- "gain": 1.55,
+ "gain": 1.5,
+  "position": 0,
+ "minTime": 0,
  "pan": 0,
  "tracks": [
+
+
   {
-   "name": "ambientstereo mixvol0.3xmixpan0x.mp3",
-   "path": "sounds/ambientstereo mixvol0.3xmixpan0x.mp3",
+   "name": "a.mp3",
+   "path": "sounds/a.mp3",
    "pan": 0,
-   "gain": 0.566598347107438,
+   "gain": 1.1260103822314047,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
-   "duration": 78.58635711669922
+   "duration": 25.945959091186523
+  },
+  {
+   "name": "b.mp3",
+   "path": "sounds/b.mp3",
+   "pan": 0,
+   "gain": 0.03945640495867767,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 12.972979545593262
+  },
+  {
+   "name": "c.mp3",
+   "path": "sounds/c.mp3",
+   "pan": 0,
+   "gain": 0.057818388429752024,
+   "muted": false,
+   "_muted": false,
+   "soloed": false,
+   "afl": true,
+   "duration": 12.972979545593262
   },
   {
    "name": "ananda_mandala_super_simple_cleaner_55_5_148_111_two.mp3",
    "path": "sounds/ananda_mandala_super_simple_cleaner_55_5_148_111_two.mp3",
    "pan": -1,
-   "gain": 0.3934710743801652,
+   "gain": 0.413390547520661,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 236.74693298339844
   },
@@ -29,64 +55,20 @@
    "name": "caroline3_only_voice.mp3",
    "path": "sounds/caroline3_only_voice.mp3",
    "pan": -1,
-   "gain": 0.6995041322314047,
+   "gain": 1.1371314049586774,
    "muted": false,
    "_muted": false,
-   "soloed": true,
-   "afl": true,
-   "duration": 907.6389770507812
-  },
-  {
-   "name": "la.mp3",
-   "path": "sounds/la.mp3",
-   "pan": -1,
-   "gain": 0.34275702479338843,
-   "muted": false,
-   "_muted": true,
    "soloed": false,
    "afl": true,
-   "duration": 2.1621665954589844
-  },
-  {
-   "name": "lb.mp3",
-   "path": "sounds/lb.mp3",
-   "pan": -1,
-   "gain": 0.38694054752066104,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486354351043701
-  },
-  {
-   "name": "lf.mp3",
-   "path": "sounds/lf.mp3",
-   "pan": -1,
-   "gain": 0.3551076446280991,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 10.810812950134277
-  },
-  {
-   "name": "maxkilian11.mp3",
-   "path": "sounds/maxkilian11.mp3",
-   "pan": -1,
-   "gain": 0.6313024793388428,
-   "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 3.2432498931884766
+   "duration": 907.6799926757812
   },
   {
    "name": "maxkilian12.mp3",
    "path": "sounds/maxkilian12.mp3",
    "pan": -1,
-   "gain": 0.03945640495867767,
+   "gain": 0.06295537190082642,
    "muted": false,
-   "_muted": true,
+   "_muted": false,
    "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
@@ -95,10 +77,10 @@
    "name": "maxkilian12b.mp3",
    "path": "sounds/maxkilian12b.mp3",
    "pan": -1,
-   "gain": 0.11544550619834708,
+   "gain": 0.027980165289256186,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 30.27027130126953
   },
@@ -106,10 +88,10 @@
    "name": "maxkilian4jogging.mp3",
    "path": "sounds/maxkilian4jogging.mp3",
    "pan": -1,
-   "gain": 0.7259814566115702,
+   "gain": 0.002732438016528923,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
   },
@@ -117,10 +99,10 @@
    "name": "maxkilian7.mp3",
    "path": "sounds/maxkilian7.mp3",
    "pan": -1,
-   "gain": 0.34275702479338843,
+   "gain": 0.07107071280991731,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
   },
@@ -128,10 +110,10 @@
    "name": "maxkilian8.mp3",
    "path": "sounds/maxkilian8.mp3",
    "pan": -1,
-   "gain": 0.2518214876033057,
+   "gain": 0.14962830578512398,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
   },
@@ -139,10 +121,10 @@
    "name": "maxkiliana1.mp3",
    "path": "sounds/maxkiliana1.mp3",
    "pan": -1,
-   "gain": 0.16200624999999996,
+   "gain": 0.20209111570247928,
    "muted": false,
    "_muted": false,
-   "soloed": true,
+   "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
   },
@@ -150,9 +132,9 @@
    "name": "maxkiliana2.mp3",
    "path": "sounds/maxkiliana2.mp3",
    "pan": -1,
-   "gain": 0.07675418388429749,
+   "gain": 0.29554049586776865,
    "muted": false,
-   "_muted": true,
+   "_muted": false,
    "soloed": false,
    "afl": true,
    "duration": 3.2432498931884766
@@ -161,42 +143,20 @@
    "name": "maxkiliana3.mp3",
    "path": "sounds/maxkiliana3.mp3",
    "pan": -1,
-   "gain": 0.30701673553719006,
+   "gain": 0.512851291322314,
    "muted": false,
    "_muted": false,
-   "soloed": true,
-   "afl": true,
-   "duration": 3.2432498931884766
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi chords reson mixvol0.6x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi chords reson mixvol0.6x.mp3",
-   "pan": -1,
-   "gain": 0.6,
-   "muted": false,
-   "_muted": true,
    "soloed": false,
    "afl": true,
-   "duration": 6.486499786376953
+   "duration": 3.2432498931884766
   },
   {
    "name": "yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi kick mixvol1.3xmixpan0x.mp3",
    "pan": 0,
-   "gain": 1.3,
+   "gain": 0.02625872933884296,
    "muted": false,
-   "_muted": true,
-   "soloed": false,
-   "afl": true,
-   "duration": 6.486499786376953
-  },
-  {
-   "name": "yogajoggercomcqbcdefghi noise perc fx mixvol0.09x.mp3",
-   "path": "sounds/yogajoggercomcqbcdefghi noise perc fx mixvol0.09x.mp3",
-   "pan": -1,
-   "gain": 0.09,
-   "muted": false,
-   "_muted": true,
+   "_muted": false,
    "soloed": false,
    "afl": true,
    "duration": 6.486499786376953
@@ -205,12 +165,27 @@
    "name": "yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
    "path": "sounds/yogajoggercomcqbcdefghi ride mixvol0.2x.mp3",
    "pan": -1,
-   "gain": 0.2,
+   "gain": 0.02297980371900827,
    "muted": false,
-   "_muted": true,
+   "_muted": false,
    "soloed": false,
    "afl": true,
    "duration": 6.486499786376953
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  ]
 }
